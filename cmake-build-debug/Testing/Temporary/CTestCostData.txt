@@ -58,8 +58,86 @@
 /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella 56 4.41632e-05
 /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella 0 0
 /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella 1 0.00205382
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella 1 0.00251589
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella 1 0.00216508
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella 1 0.00203776
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella 1 0.00241266
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella 1 0.00270837
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella 1 0.00221997
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella 1 0.00209056
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella 1 0.00232152
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella 1 0.00210914
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella 1 0.00238312
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella 1 0.00291943
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella 1 0.00286558
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella 1 0.00208336
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella 1 0.00228178
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella 1 0.00292118
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella 1 0.00205005
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella 1 0.00254557
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella 1 0.00223359
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella 1 0.00199432
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella 1 0.00228395
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella 1 0.00229002
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella 1 0.00200842
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella 1 0.00155208
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella 1 0.00225741
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella 1 0.00228248
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella 1 0.00332025
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella 1 0.00264076
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella 1 0.0880019
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella 1 0.0029804
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella 1 0.0304736
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella 1 0.0111386
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella 1 0.00206486
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella 1 0.00146904
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella 1 0.00203825
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella 1 0.00196296
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella 1 0.00220719
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella 1 0.00233856
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella 1 0.004648
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella 1 0.0023827
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella 1 0.0033308
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella 1 0.00571881
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella 1 0.00860199
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella 1 0.00222235
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella 1 0.00222759
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella 1 0.00215858
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella 1 0.00269475
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella 1 0.00337123
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella 1 0.00274644
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella 1 0.00236796
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella 1 0.00218016
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella 1 0.00215956
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella 1 0.00211717
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella 1 0.00270299
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella 1 0.0022572
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella 1 0.00265445
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella 1 0.00257602
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella 1 0.00331543
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella 1 0.00221201
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella 1 0.00461175
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella 1 0.00174722
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella 1 0.00303739
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella 0 0
 ---
-/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella
-/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella
-/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella
-/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella

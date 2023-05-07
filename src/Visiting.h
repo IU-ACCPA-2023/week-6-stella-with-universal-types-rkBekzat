@@ -256,6 +256,11 @@ class Visiting : public Visitor
         void visitListVariantFieldType(ListVariantFieldType *p);
         void visitListRecordFieldType(ListRecordFieldType *p);
 
+        void visitDeclFunGeneric(DeclFunGeneric *p);
+        void visitTypeAbstraction(TypeAbstraction *p);
+        void visitTypeApplication(TypeApplication *p);
+        void visitTypeForAll(TypeForAll *p);
+
         void visitInteger(Integer x);
         void visitChar(Char x);
         void visitDouble(Double x);

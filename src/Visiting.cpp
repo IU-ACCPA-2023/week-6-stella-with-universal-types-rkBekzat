@@ -1717,4 +1717,56 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
         /* Code for MemoryAddress Goes Here */
         std::cout << "visitMemoryAddress\n";
     }
+
+    void Visiting::visitDeclFunGeneric(DeclFunGeneric *decl_fun_generic)
+    {
+        /* Code For DeclFunGeneric Goes Here */
+
+        if (decl_fun_generic->listannotation_)
+            decl_fun_generic->listannotation_->accept(this);
+        visitStellaIdent(decl_fun_generic->stellaident_);
+        if (decl_fun_generic->liststellaident_)
+            decl_fun_generic->liststellaident_->accept(this);
+        if (decl_fun_generic->listparamdecl_)
+            decl_fun_generic->listparamdecl_->accept(this);
+        if (decl_fun_generic->returntype_)
+            decl_fun_generic->returntype_->accept(this);
+        if (decl_fun_generic->throwtype_)
+            decl_fun_generic->throwtype_->accept(this);
+        if (decl_fun_generic->listdecl_)
+            decl_fun_generic->listdecl_->accept(this);
+        if (decl_fun_generic->expr_)
+            decl_fun_generic->expr_->accept(this);
+    }
+
+    void Visiting::visitTypeAbstraction(TypeAbstraction *type_abstraction)
+    {
+        /* Code For TypeAbstraction Goes Here */
+
+        if (type_abstraction->liststellaident_)
+            type_abstraction->liststellaident_->accept(this);
+        if (type_abstraction->expr_)
+            type_abstraction->expr_->accept(this);
+    }
+
+    void Visiting::visitTypeApplication(TypeApplication *type_application)
+    {
+        /* Code For TypeApplication Goes Here */
+
+        if (type_application->expr_)
+            type_application->expr_->accept(this);
+        if (type_application->listtype_)
+            type_application->listtype_->accept(this);
+    }
+
+    void Visiting::visitTypeForAll(TypeForAll *type_for_all)
+    {
+        /* Code For TypeForAll Goes Here */
+
+        if (type_for_all->liststellaident_)
+            type_for_all->liststellaident_->accept(this);
+        if (type_for_all->type_)
+            type_for_all->type_->accept(this);
+    }
+
 }
