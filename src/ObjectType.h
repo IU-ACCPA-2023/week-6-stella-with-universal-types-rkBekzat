@@ -11,7 +11,9 @@ namespace Stella{
     public:
         MyTypeTag typeTag;
         int data = -1;
+        std::string genericWord;
 
+        std::vector<std::string> generics; // for functions
         std::vector<ObjectType> params = {};
         std::vector<std::pair<StellaIdent, ObjectType>> records ;
         std::vector<ObjectType> returns = {};
@@ -27,6 +29,11 @@ namespace Stella{
         ObjectType(MyTypeTag tag, int value){
             typeTag = tag;
             data = value;
+        }
+
+        ObjectType(MyTypeTag tag, std::string word){
+            typeTag = tag;
+            genericWord = word;
         }
 
         bool contain(StellaIdent ident){

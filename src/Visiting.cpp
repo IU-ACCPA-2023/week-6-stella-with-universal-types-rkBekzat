@@ -101,6 +101,7 @@ namespace Stella
         }
         // map the type for identifier
         decreaseScope();
+        std::cout <<"AFTER DECL: "<< decl_fun->stellaident_ << "  " << objFunc.typeTag << "\n";
         contextIdent[decl_fun->stellaident_].push(objFunc);
         scopedContext.top().push_back(decl_fun->stellaident_);
         visitStellaIdent(decl_fun->stellaident_);
@@ -534,7 +535,7 @@ namespace Stella
         // here contexts.top() will be return type, and as you mentioned here only one object, cause any function cat return on type
         obj.returns.push_back(contexts.top());
         contexts.pop();
-
+        std::cout << "EXIT ABSTRACTIONFUNC: " << obj.typeTag << " " << obj.returns[0].typeTag ;
         // then we add this object type to context, cause it will be needed in future
         contexts.push(obj);
 
@@ -676,12 +677,12 @@ namespace Stella
     void Visiting::visitApplication(Application *application)
     {
         /* Code For Application Goes Here */
-        std::cout << "visitApplication\n";
+        std::cout << "visitApplication \n";
         if (application->expr_)
             application->expr_->accept(this);
         // contexts.top() should function
         if(contexts.empty() ||  contexts.top().typeTag != MyTypeTag::FunctionTypeTag){
-            std::cout << "ERROR: This is not function. On line: " << application->expr_->line_number << " at position: " << application->expr_->char_number << "\n";
+            std::cout << "ERROR: This is not function. On line: " << application->expr_->line_number << " at position: " << application->expr_->char_number  <<  " " << contexts.top().typeTag << "\n";
             exit(1);
         }
         ObjectType func = contexts.top();
@@ -696,6 +697,7 @@ namespace Stella
         // while I go pass the list exprision I will check with type in params of function
         ObjectType args = getArgs(sizedBefore);
         if(!subTypeFunc(func, args)){
+            std::cout << args.params[0].typeTag << "   " << func.params[0].typeTag << "   ";
             std::cout << "ERROR: mismatch argument and not subtyping, on line: " << application->line_number << "\n";
             exit(1);
         }
@@ -1721,7 +1723,10 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
     void Visiting::visitDeclFunGeneric(DeclFunGeneric *decl_fun_generic)
     {
         /* Code For DeclFunGeneric Goes Here */
-
+        std::cout << "visitDeclFunGeneric\n";
+        increaseScope();
+        std::cout << printer.print(decl_fun_generic->liststellaident_) << "\n";
+        setGeneric(printer.print(decl_fun_generic->liststellaident_));
         if (decl_fun_generic->listannotation_)
             decl_fun_generic->listannotation_->accept(this);
         visitStellaIdent(decl_fun_generic->stellaident_);
@@ -1737,36 +1742,64 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
             decl_fun_generic->listdecl_->accept(this);
         if (decl_fun_generic->expr_)
             decl_fun_generic->expr_->accept(this);
+        std::cout << "EXIT GENERIc func: " << contexts.top().typeTag << "\n";
+        contexts.top().generics = getGeneric(printer.print(decl_fun_generic->liststellaident_));
+        contextIdent[decl_fun_generic->stellaident_].push(contexts.top());
+        decreaseScope();
     }
 
     void Visiting::visitTypeAbstraction(TypeAbstraction *type_abstraction)
     {
         /* Code For TypeAbstraction Goes Here */
-
+        std::cout << "visitTypeAbstraction " << printer.print(type_abstraction->expr_) << "\n";
         if (type_abstraction->liststellaident_)
             type_abstraction->liststellaident_->accept(this);
         if (type_abstraction->expr_)
             type_abstraction->expr_->accept(this);
+        // in top context will store abstract function, I just add generic params
+        contexts.top().generics = getGeneric(printer.print(type_abstraction->liststellaident_));
+        std::cout << "AFTER TYPE ABSTRACT: " << contexts.top().typeTag << " " << contexts.top().generics.size() << "  GENERICS: " << printer.print(type_abstraction->liststellaident_) << "\n";
+
     }
 
     void Visiting::visitTypeApplication(TypeApplication *type_application)
     {
         /* Code For TypeApplication Goes Here */
-
+        std::cout << "visitTypeApplication " << printer.print(type_application) << "\n";
         if (type_application->expr_)
             type_application->expr_->accept(this);
-        if (type_application->listtype_)
-            type_application->listtype_->accept(this);
+        std::cout << "ListTypes: " << contexts.top().typeTag << "\n";
+        std::vector<std::string> generics = getGeneric(printer.print(type_application->listtype_));
+        if(generics.size() != contexts.top().generics.size()){
+            std::cout << "ERROR: mismatch generic types " << generics.size() << " " << contexts.top().generics.size() << " GEN: " << printer.print(type_application->listtype_)<< "\n" ;
+            exit(1);
+        }
+        std::cout << "LIST TYPE: " << printer.print(type_application->listtype_) <<"\n";
+//        if (type_application->listtype_)
+//            type_application->listtype_->accept(this);
+//        contexts.pop();
+        ObjectType result = contexts.top();
+        std::unordered_map<std::string, MyTypeTag> mapGeneric = mappingGeneric(contexts.top().generics, generics);
+        defineGeneric(&result, mapGeneric);
+        std::cout << "BEFORE DEFINE: " << contexts.top().typeTag << "\n";
+        contexts.pop();
+        contexts.push(result);
+        std::cout << "AFTER TYPEABSTRACTION: " << contexts.top().typeTag << "\n";
     }
 
     void Visiting::visitTypeForAll(TypeForAll *type_for_all)
     {
         /* Code For TypeForAll Goes Here */
-
+        std::cout << "visitTypeForAll " << printer.print(type_for_all) << "\n";
+        std::cout << "TYPE: " << printer.print(type_for_all->liststellaident_) << "\n";
+        setGeneric(printer.print(type_for_all->liststellaident_));
         if (type_for_all->liststellaident_)
             type_for_all->liststellaident_->accept(this);
+
+//        std::cout << contexts.size() << " " << (contexts.size() > 0 ? contexts.top().typeTag  : -1) << "\n";
         if (type_for_all->type_)
             type_for_all->type_->accept(this);
+        contexts.top().generics = getGeneric(printer.print(type_for_all->liststellaident_));
     }
 
 }

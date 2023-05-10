@@ -27,7 +27,6 @@ class Visiting : public Visitor
         std::stack<std::vector<StellaIdent>> scopedContext; // when entering to new scope I add the idents to vector, and when I go out I delete last element from stack
         std::stack<ObjectType> contexts;
 
-
         void increaseScope(){
             scopedContext.push(std::vector<StellaIdent>());
         }
@@ -41,6 +40,73 @@ class Visiting : public Visitor
         }
 
     public:
+
+        std::vector<std::string> getGeneric(std::string s){
+            std::string res = "";
+            std::vector<std::string> result;
+            for(int i = 0; i < s.size(); i++){
+                if(s[i] == ','){
+                    continue;
+                }
+                if(s[i] == ' '){
+                    result.push_back(res);
+                    res = "";
+                } else {
+                    res += s[i];
+                }
+            }
+            if(res.size() > 0) {
+                result.push_back(res);
+            }
+            return result;
+        }
+
+        MyTypeTag defineTag(std::string word){
+            if(word == "Nat"){
+                return MyTypeTag::NatTypeTag;
+            }
+        }
+
+        std::unordered_map<std::string, MyTypeTag> mappingGeneric(std::vector<std::string> ident, std::vector<std::string> vals){
+            std::unordered_map<std::string, MyTypeTag> result;
+            for(int i = 0; i < ident.size(); i++){
+                result[ident[i]] = defineTag(vals[i]);
+            }
+            return result;
+        }
+
+        void defineGeneric(ObjectType *result, std::unordered_map<std::string, MyTypeTag> change) {
+            for(int i = 0; i < result->params.size(); i++){
+                if(result->params[i].typeTag == MyTypeTag::FunctionTypeTag) {
+                    defineGeneric(&result->params[i], change);
+                } else if(result->params[i].typeTag == MyTypeTag::GenericType){
+                    result->params[i].typeTag = change[result->params[i].genericWord];
+                }
+            }
+            for(int i = 0; i < result->returns.size(); i++){
+                if(result->returns[i].typeTag == MyTypeTag::FunctionTypeTag){
+                    defineGeneric(&result->returns[i], change);
+                } else if (result->returns[i].typeTag == MyTypeTag::GenericType){
+                    result->returns[i].typeTag = change[result->returns[i].genericWord];
+                }
+            }
+        }
+
+        void setGeneric(std::string s){
+            std::string idents = "";
+            for(int i = 0; i < s.size(); i++){
+                if(s[i] == ','){
+                    continue;
+                }
+                if(s[i] == ' '){
+                    contextIdent[idents].push(ObjectType(MyTypeTag::GenericType, idents));
+                    idents = "";
+                } else {
+                    idents += s[i];
+                }
+            }
+            contextIdent[idents].push(ObjectType(MyTypeTag::GenericType, idents));
+        }
 
         ObjectType getArgs(int sizedBefore) {
             ObjectType result = ObjectType(MyTypeTag::FunctionTypeTag);
