@@ -1807,10 +1807,18 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
         ObjectType result = contexts.top();
         std::unordered_map<std::string, MyTypeTag> mapGeneric = mappingGeneric(contexts.top().generics, generics);
         defineGeneric(&result, mapGeneric);
-        std::cout << "BEFORE DEFINE: " << contexts.top().typeTag << "\n";
+        std::cout << "BEFORE TYPEABSTRACTION: " << contexts.top().typeTag << " " << contexts.top().params.size() << " ";
+        if(contexts.top().params.size() > 0){
+            std::cout << contexts.top().params[0].typeTag ;
+        }
+        std::cout << "\n";
         contexts.pop();
         contexts.push(result);
-        std::cout << "AFTER TYPEABSTRACTION: " << contexts.top().typeTag << "\n";
+        std::cout << printer.print(type_application) << "AFTER TYPEABSTRACTION: " << contexts.top().typeTag << " " << contexts.top().params.size() << " ";
+        if(contexts.top().params.size() > 0){
+            std::cout << contexts.top().params[0].typeTag ;
+        }
+        std::cout << "\n";
     }
 
     void Visiting::visitTypeForAll(TypeForAll *type_for_all)

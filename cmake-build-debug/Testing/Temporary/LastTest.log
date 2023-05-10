@@ -1,10 +1,10 @@
-Start testing: May 10 23:14 MSK
+Start testing: May 10 23:39 MSK
 ----------------------------------------------------------
 1/72 Testing: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella
 1/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -33,7 +33,7 @@ ERROR: This is not function. On line: 4 at position: 9 2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -41,7 +41,7 @@ Test Passed.
 2/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -71,7 +71,7 @@ ERROR: This is not function. On line: 4 at position: 9 2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -79,7 +79,7 @@ Test Passed.
 3/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -133,10 +133,10 @@ visitInt: 0
 Before end application: 3 2
 ERROR: This is not function. On line: 4 at position: 9 2
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -144,7 +144,7 @@ Test Passed.
 4/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -195,7 +195,7 @@ visitInt: 0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -203,7 +203,7 @@ Test Passed.
 5/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -331,7 +331,7 @@ EXIT ABSTRACTIONFUNC: 3 23   3   ERROR: mismatch argument and not subtyping, on 
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -339,7 +339,7 @@ Test Passed.
 6/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -494,7 +494,7 @@ EXIT ABSTRACTIONFUNC: 3 2EXIT ABSTRACTIONFUNC: 3 33   3   ERROR: mismatch argume
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -502,7 +502,7 @@ Test Passed.
 7/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -531,7 +531,7 @@ ERROR: if condition type should be bool. On line:4 char:14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -539,7 +539,7 @@ Test Passed.
 8/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -571,7 +571,7 @@ ERROR: if return different types on line: 4 position 25 and on line:4 postion35
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -579,7 +579,7 @@ Test Passed.
 9/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -629,7 +629,7 @@ ConstFalse
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -637,7 +637,7 @@ Test Passed.
 10/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -677,7 +677,7 @@ ERROR: if return different types on line: 4 position 26 and on line:4 postion36
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-if-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -685,7 +685,7 @@ Test Passed.
 11/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -743,7 +743,7 @@ Line: 5
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -751,7 +751,7 @@ Test Passed.
 12/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -865,7 +865,7 @@ EXIT ABSTRACTIONFUNC: 3 3EXIT ABSTRACTIONFUNC: 3 3ERROR: NatRec 3rd argument fun
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -873,7 +873,7 @@ Test Passed.
 13/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -907,7 +907,7 @@ On line 4 at position: 44
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -915,7 +915,7 @@ Test Passed.
 14/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -952,7 +952,7 @@ On line 4 at position: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -960,7 +960,7 @@ Test Passed.
 15/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -989,7 +989,7 @@ On line 4 at position: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -997,7 +997,7 @@ Test Passed.
 16/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1080,7 +1080,7 @@ ERROR: This is not function. On line: 13 at position: 15 2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1088,7 +1088,7 @@ Test Passed.
 17/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1117,7 +1117,7 @@ ERROR: The variable undefined, on line: 4 at position: 14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1125,7 +1125,7 @@ Test Passed.
 18/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1218,7 +1218,7 @@ ERROR: The variable undefined, on line: 13 at position: 27
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1226,7 +1226,7 @@ Test Passed.
 19/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1256,7 +1256,7 @@ ERROR: This is not function. On line: 7 at position: 9 10
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1264,7 +1264,7 @@ Test Passed.
 20/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1304,7 +1304,7 @@ ERROR: This is not function. On line: 7 at position: 14 0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1312,7 +1312,7 @@ Test Passed.
 21/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1401,7 +1401,7 @@ Visiting StellaIdent: x
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1409,7 +1409,7 @@ Test Passed.
 22/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1473,7 +1473,7 @@ Line: 5
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/ill-typed/bad-records-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1481,7 +1481,7 @@ Test Passed.
 23/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1519,7 +1519,7 @@ On line 10 at position: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1527,7 +1527,7 @@ Test Passed.
 24/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1591,10 +1591,10 @@ visitVar
 Visiting StellaIdent: input
 ERROR: The type should be reference, on line: 10
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1602,7 +1602,7 @@ Test Passed.
 25/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1661,7 +1661,7 @@ ERROR: you can't change type, on line: 14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1669,7 +1669,7 @@ Test Passed.
 26/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1733,7 +1733,7 @@ Visiting StellaIdent: n
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1741,7 +1741,7 @@ Test Passed.
 27/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1838,7 +1838,7 @@ Visiting StellaIdent: f
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1846,7 +1846,7 @@ Test Passed.
 28/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1988,7 +1988,7 @@ Visiting StellaIdent: g
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1996,7 +1996,7 @@ Test Passed.
 29/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2136,7 +2136,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2144,7 +2144,7 @@ Test Failed.
 30/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2296,10 +2296,10 @@ visitVar
 Visiting StellaIdent: g
 3   3   ERROR: mismatch argument and not subtyping, on line: 22
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2307,7 +2307,7 @@ Test Passed.
 31/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2382,7 +2382,7 @@ ERROR: if condition type should be bool. On line:8 char:23
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2390,7 +2390,7 @@ Test Passed.
 32/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2491,7 +2491,7 @@ visitInt: 0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2499,7 +2499,7 @@ Test Passed.
 33/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2534,7 +2534,7 @@ ERROR: undefined variable on: 6
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2542,7 +2542,7 @@ Test Passed.
 34/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2598,7 +2598,7 @@ Visiting StellaIdent: x
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2606,7 +2606,7 @@ Test Passed.
 35/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2656,7 +2656,7 @@ Line: 7
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2664,7 +2664,7 @@ Test Passed.
 36/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2740,8 +2740,8 @@ visitVar
 Visiting StellaIdent: const
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+const [Nat] AFTER TYPEABSTRACTION: 3 1 2
 visitListExpr: 
 ----Before : 
 visitVar
@@ -2749,18 +2749,18 @@ Visiting StellaIdent: x
 Before end application: 3 3
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+const [Nat] (x) [Bool] AFTER TYPEABSTRACTION: 3 1 1
 visitListExpr: 
 ----Before : 
 ConstInt
 visitInt: 0
-2   0   ERROR: mismatch argument and not subtyping, on line: 11
+2   1   ERROR: mismatch argument and not subtyping, on line: 11
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2768,7 +2768,7 @@ Test Passed.
 37/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2896,18 +2896,18 @@ visitVar
 Visiting StellaIdent: ignore
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+ignore [Y] AFTER TYPEABSTRACTION: 3 1 1
 visitListExpr: 
 ----Before : 
 visitVar
 Visiting StellaIdent: x
-11   4   ERROR: mismatch argument and not subtyping, on line: 15
+11   1   ERROR: mismatch argument and not subtyping, on line: 15
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-5.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2915,7 +2915,7 @@ Test Passed.
 38/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2994,18 +2994,18 @@ visitVar
 Visiting StellaIdent: f
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+f [Y] AFTER TYPEABSTRACTION: 3 1 1
 visitListExpr: 
 ----Before : 
 visitVar
 Visiting StellaIdent: y
-11   4   ERROR: mismatch argument and not subtyping, on line: 9
+11   1   ERROR: mismatch argument and not subtyping, on line: 9
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/ill-typed/bad-universal-types-6.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3013,7 +3013,7 @@ Test Passed.
 39/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3064,7 +3064,7 @@ ERROR: It's not sum type. On line6 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3072,7 +3072,7 @@ Test Passed.
 40/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3287,7 +3287,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/factorial.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3295,7 +3295,7 @@ Test Passed.
 41/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3440,7 +3440,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/higher-order-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3448,7 +3448,7 @@ Test Passed.
 42/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3505,7 +3505,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/increment_twice.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3513,7 +3513,7 @@ Test Passed.
 43/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3785,7 +3785,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/logical-operators.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3793,7 +3793,7 @@ Test Passed.
 44/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3940,7 +3940,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/core/well-typed/squares.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3948,7 +3948,7 @@ Test Passed.
 45/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4006,7 +4006,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4014,7 +4014,7 @@ Test Passed.
 46/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4099,7 +4099,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4107,7 +4107,7 @@ Test Passed.
 47/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4142,7 +4142,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/exceptions/well-typed/panic-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4150,7 +4150,7 @@ Test Passed.
 48/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4189,7 +4189,7 @@ ERROR: This is not function. On line: 7 at position: 14 0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/lists/well-typed/lists-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4197,7 +4197,7 @@ Test Failed.
 49/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4290,7 +4290,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/pairs/well-typed/pairs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4298,7 +4298,7 @@ Test Passed.
 50/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4403,7 +4403,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/records/well-typed/records-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4411,7 +4411,7 @@ Test Passed.
 51/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4524,7 +4524,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4532,7 +4532,7 @@ Test Passed.
 52/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4601,7 +4601,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4609,7 +4609,7 @@ Test Passed.
 53/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4676,7 +4676,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/references/well-typed/refs-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4684,7 +4684,7 @@ Test Passed.
 54/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4756,7 +4756,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4764,7 +4764,7 @@ Test Passed.
 55/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4833,7 +4833,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4841,7 +4841,7 @@ Test Passed.
 56/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4912,7 +4912,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4920,7 +4920,7 @@ Test Passed.
 57/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4991,7 +4991,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4999,7 +4999,7 @@ Test Passed.
 58/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5100,7 +5100,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5108,7 +5108,7 @@ Test Passed.
 59/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5254,7 +5254,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5262,7 +5262,7 @@ Test Passed.
 60/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5402,7 +5402,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5410,7 +5410,7 @@ Test Passed.
 61/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5559,7 +5559,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5567,7 +5567,7 @@ Test Passed.
 62/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5715,7 +5715,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5723,7 +5723,7 @@ Test Passed.
 63/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5871,7 +5871,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5879,7 +5879,7 @@ Test Passed.
 64/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5981,7 +5981,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/tuples/well-typed/tuples-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5989,7 +5989,7 @@ Test Passed.
 65/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6067,8 +6067,8 @@ Visiting StellaIdent: x
 Before end application: 3 3
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+identity (x) [Nat] AFTER TYPEABSTRACTION: 3 1 2
 visitListExpr: 
 ----Before : 
 visitVar
@@ -6082,7 +6082,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6090,7 +6090,7 @@ Test Passed.
 66/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6140,8 +6140,8 @@ visitVar
 Visiting StellaIdent: identity
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+identity [Nat] AFTER TYPEABSTRACTION: 3 1 2
 visitListExpr: 
 ----Before : 
 visitVar
@@ -6155,7 +6155,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6163,7 +6163,7 @@ Test Passed.
 67/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6226,8 +6226,8 @@ visitVar
 Visiting StellaIdent: const
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+const [Nat, Bool] AFTER TYPEABSTRACTION: 3 1 2
 visitListExpr: 
 ----Before : 
 visitVar
@@ -6245,7 +6245,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6253,7 +6253,7 @@ Test Passed.
 68/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6329,8 +6329,8 @@ visitVar
 Visiting StellaIdent: const
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+const [Nat] AFTER TYPEABSTRACTION: 3 1 2
 visitListExpr: 
 ----Before : 
 visitVar
@@ -6338,17 +6338,21 @@ Visiting StellaIdent: x
 Before end application: 3 3
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+const [Nat] (x) [Bool] AFTER TYPEABSTRACTION: 3 1 1
 visitListExpr: 
 ----Before : 
 ConstFalse
-1   0   ERROR: mismatch argument and not subtyping, on line: 11
+Before end application: 3 2
+Fucntion go out: 3 2 2 5
+Function name: main
+AFTER DECL: main  3
+Visiting StellaIdent: main
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
-Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella" end time: May 10 23:14 MSK
+Test Passed.
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6356,7 +6360,7 @@ Test Failed.
 69/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6484,18 +6488,18 @@ visitVar
 Visiting StellaIdent: ignore
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+ignore [Y] AFTER TYPEABSTRACTION: 3 1 1
 visitListExpr: 
 ----Before : 
 visitVar
 Visiting StellaIdent: x
-11   4   ERROR: mismatch argument and not subtyping, on line: 15
+11   1   ERROR: mismatch argument and not subtyping, on line: 15
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-5.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6503,7 +6507,7 @@ Test Failed.
 70/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6582,18 +6586,18 @@ visitVar
 Visiting StellaIdent: f
 ListTypes: 3
 LIST TYPE: 3
-BEFORE DEFINE: 3
-AFTER TYPEABSTRACTION: 3
+BEFORE TYPEABSTRACTION: 3 1 11
+f [Y] AFTER TYPEABSTRACTION: 3 1 1
 visitListExpr: 
 ----Before : 
 visitVar
 Visiting StellaIdent: y
-11   4   ERROR: mismatch argument and not subtyping, on line: 9
+11   1   ERROR: mismatch argument and not subtyping, on line: 9
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/universal-types/well-typed/universal-types-6.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6601,7 +6605,7 @@ Test Failed.
 71/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6652,7 +6656,7 @@ ERROR: It's not sum type. On line6 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -6660,7 +6664,7 @@ Test Failed.
 72/72 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella" start time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella" start time: May 10 23:39 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -6709,8 +6713,8 @@ ERROR: It's not sum type. On line5 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella" end time: May 10 23:14 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella" end time: May 10 23:39 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-6-stella-with-universal-types-rkBekzat/tests/variants/well-typed/variants-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 10 23:14 MSK
+End testing: May 10 23:39 MSK
