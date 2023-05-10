@@ -1730,12 +1730,27 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
         if (decl_fun_generic->listannotation_)
             decl_fun_generic->listannotation_->accept(this);
         visitStellaIdent(decl_fun_generic->stellaident_);
-        if (decl_fun_generic->liststellaident_)
-            decl_fun_generic->liststellaident_->accept(this);
+        ObjectType funcGen = ObjectType(MyTypeTag::FunctionTypeTag);
+        funcGen.generics = getGeneric(printer.print(decl_fun_generic->liststellaident_));
+//        if (decl_fun_generic->liststellaident_)
+//            decl_fun_generic->liststellaident_->accept(this);
+
+
+        int sizedBefore = contexts.size();
         if (decl_fun_generic->listparamdecl_)
             decl_fun_generic->listparamdecl_->accept(this);
+
+        while(sizedBefore < contexts.size()){
+            funcGen.params.push_back(contexts.top());
+            contexts.pop();
+        }
+
         if (decl_fun_generic->returntype_)
             decl_fun_generic->returntype_->accept(this);
+
+        funcGen.returns.push_back(contexts.top());
+        contexts.pop();
+
         if (decl_fun_generic->throwtype_)
             decl_fun_generic->throwtype_->accept(this);
         if (decl_fun_generic->listdecl_)
@@ -1743,8 +1758,8 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
         if (decl_fun_generic->expr_)
             decl_fun_generic->expr_->accept(this);
         std::cout << "EXIT GENERIc func: " << contexts.top().typeTag << "\n";
-        contexts.top().generics = getGeneric(printer.print(decl_fun_generic->liststellaident_));
-        contextIdent[decl_fun_generic->stellaident_].push(contexts.top());
+
+        contextIdent[decl_fun_generic->stellaident_].push(funcGen);
         decreaseScope();
     }
 
@@ -1774,7 +1789,7 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
             std::cout << "ERROR: mismatch generic types " << generics.size() << " " << contexts.top().generics.size() << " GEN: " << printer.print(type_application->listtype_)<< "\n" ;
             exit(1);
         }
-        std::cout << "LIST TYPE: " << printer.print(type_application->listtype_) <<"\n";
+        std::cout << "LIST TYPE: " << contexts.top().typeTag <<"\n";
 //        if (type_application->listtype_)
 //            type_application->listtype_->accept(this);
 //        contexts.pop();
