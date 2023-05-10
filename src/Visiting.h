@@ -65,6 +65,10 @@ class Visiting : public Visitor
             if(word == "Nat"){
                 return MyTypeTag::NatTypeTag;
             }
+            if(word == "Bool"){
+                return MyTypeTag::BoolTypeTag;
+            }
+            return MyTypeTag::UnitTypeTag;
         }
 
         std::unordered_map<std::string, MyTypeTag> mappingGeneric(std::vector<std::string> ident, std::vector<std::string> vals){

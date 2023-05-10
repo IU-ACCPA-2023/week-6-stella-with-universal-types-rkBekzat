@@ -75,6 +75,7 @@ namespace Stella{
         }
 
         bool operator!=(const ObjectType& other){
+            if(typeTag == MyTypeTag::GenericType && genericWord != other.genericWord) return true;
             if(typeTag != other.typeTag) return true;
             if(params.size() != other.params.size()) return true;
             if(returns.size() != other.returns.size()) return true;

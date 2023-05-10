@@ -1759,6 +1759,17 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
             decl_fun_generic->expr_->accept(this);
         std::cout << "EXIT GENERIc func: " << contexts.top().typeTag << "\n";
 
+        std::cout << "Generic Fucntion go out: "<< funcGen.typeTag << " "<<  funcGen.returns[0].typeTag << " " << contexts.top().typeTag << " " << contexts.size() << "\n" ;
+        std::cout << "Generic Function name: " << decl_fun_generic->stellaident_ << "\n";
+        // checking expected return type and actual return type same or not
+        // add new condition if actual return type is panic then skip
+        if(!checkReturn(contexts.top(), funcGen.returns[0]) && contexts.top().typeTag != MyTypeTag::PanicTypeTag){
+            std::cout << "ERROR: function should return another type\n";
+            std::cout << "Line: " << decl_fun_generic->expr_->line_number << "\n";
+            exit(1);
+        }
+
+
         contextIdent[decl_fun_generic->stellaident_].push(funcGen);
         decreaseScope();
     }
